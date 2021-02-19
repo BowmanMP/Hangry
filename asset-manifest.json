@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Hangry/static/css/main.85b1d06c.chunk.css",
+    "main.js": "/Hangry/static/js/main.0466eba1.chunk.js",
+    "main.js.map": "/Hangry/static/js/main.0466eba1.chunk.js.map",
+    "runtime-main.js": "/Hangry/static/js/runtime-main.9eba94cb.js",
+    "runtime-main.js.map": "/Hangry/static/js/runtime-main.9eba94cb.js.map",
+    "static/js/2.bd2d3f9e.chunk.js": "/Hangry/static/js/2.bd2d3f9e.chunk.js",
+    "static/js/2.bd2d3f9e.chunk.js.map": "/Hangry/static/js/2.bd2d3f9e.chunk.js.map",
+    "static/js/3.3a303f86.chunk.js": "/Hangry/static/js/3.3a303f86.chunk.js",
+    "static/js/3.3a303f86.chunk.js.map": "/Hangry/static/js/3.3a303f86.chunk.js.map",
+    "index.html": "/Hangry/index.html",
+    "static/css/main.85b1d06c.chunk.css.map": "/Hangry/static/css/main.85b1d06c.chunk.css.map",
+    "static/js/2.bd2d3f9e.chunk.js.LICENSE.txt": "/Hangry/static/js/2.bd2d3f9e.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/Hangry/static/media/background_search_mobile.9e607f23.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9eba94cb.js",
+    "static/js/2.bd2d3f9e.chunk.js",
+    "static/css/main.85b1d06c.chunk.css",
+    "static/js/main.0466eba1.chunk.js"
+  ]
+}
