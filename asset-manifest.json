@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Hangry/static/css/main.85b1d06c.chunk.css",
-    "main.js": "/Hangry/static/js/main.0466eba1.chunk.js",
-    "main.js.map": "/Hangry/static/js/main.0466eba1.chunk.js.map",
+    "main.js": "/Hangry/static/js/main.2cae9bf9.chunk.js",
+    "main.js.map": "/Hangry/static/js/main.2cae9bf9.chunk.js.map",
     "runtime-main.js": "/Hangry/static/js/runtime-main.9eba94cb.js",
     "runtime-main.js.map": "/Hangry/static/js/runtime-main.9eba94cb.js.map",
     "static/js/2.bd2d3f9e.chunk.js": "/Hangry/static/js/2.bd2d3f9e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9eba94cb.js",
     "static/js/2.bd2d3f9e.chunk.js",
     "static/css/main.85b1d06c.chunk.css",
-    "static/js/main.0466eba1.chunk.js"
+    "static/js/main.2cae9bf9.chunk.js"
   ]
 }
